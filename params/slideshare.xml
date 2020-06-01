@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fields name="fieldparams">
+		<fieldset 
+			name="fieldparams" 
+			addfieldpath="/plugins/fields/slideshare/elements"
+		>
+					
+			<field
+				name="width"
+				type="text"
+				label="PLG_FIELDS_SLIDESHARE_PARAMS_WIDTH_LABEL"
+				description="PLG_FIELDS_SLIDESHARE_PARAMS_WIDTH_DESC"
+				size="40"
+				default="599px"
+			/>
+			
+			<field
+				name="height"
+				type="text"
+				label="PLG_FIELDS_SLIDESHARE_PARAMS_HEIGHT_LABEL"
+				description="PLG_FIELDS_SLIDESHARE_PARAMS_HEIGHT_DESC"
+				size="40"
+				default="487px"
+			/>
+			
+			<field
+				name="mode"
+				type="pro"
+				label="PLG_FIELDS_SLIDESHARE_PARAMS_MODE_RESPONSIVE"
+				description="PLG_FIELDS_SLIDESHARE_PARAMS_MODE_DESC"
+			/>
+			
+			<field
+				name="align"
+				type="pro"
+				label="PLG_FIELDS_SLIDESHARE_PARAMS_ALIGN_LABEL"
+				description="PLG_FIELDS_SLIDESHARE_PARAMS_ALIGN_DESC"
+			/>
+							
+			<field
+				name="fullscreen"
+				type="pro"
+				label="PLG_FIELDS_SLIDESHARE_PARAMS_FULLSCREEN_LABEL"
+				description="PLG_FIELDS_SLIDESHARE_PARAMS_FULLSCREEN_DESC"
+			/>
+						
+			<field
+				name="related"
+				type="pro"
+				label="PLG_FIELDS_SLIDESHARE_PARAMS_RELATED_LABEL"
+				description="PLG_FIELDS_SLIDESHARE_PARAMS_RELATED_DESC"
+			/>
+		
+		</fieldset>
+	</fields>
+</form>

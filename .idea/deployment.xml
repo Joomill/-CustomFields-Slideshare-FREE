@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Joomla 3 FREE">
+        <serverdata>
+          <mappings>
+            <mapping deploy="plugins\fields\slideshare" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="administrator\language\en-GB" local="$PROJECT_DIR$/language" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Joomla 3 PRO">
+        <serverdata>
+          <mappings>
+            <mapping deploy="" local="" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Joomla 4 FREE">
+        <serverdata>
+          <mappings>
+            <mapping deploy="plugins\fields\slideshare" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="administrator\language\en-GB" local="$PROJECT_DIR$/language" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Joomla 4 PRO">
+        <serverdata>
+          <mappings>
+            <mapping deploy="" local="" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
