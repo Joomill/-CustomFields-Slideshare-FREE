@@ -51,6 +51,11 @@
 				label="PLG_FIELDS_SLIDESHARE_PARAMS_RELATED_LABEL"
 				description="PLG_FIELDS_SLIDESHARE_PARAMS_RELATED_DESC"
 			/>
+
+			<field
+				name=""
+				type="upgrade"
+			/>
 		
 		</fieldset>
 	</fields>
